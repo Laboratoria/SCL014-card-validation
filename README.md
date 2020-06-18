@@ -330,3 +330,8 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 * [ ] Interfaz permite ingresar un número para ser validado.
 * [ ] Interfaz muestra el resultado de la validación correctamente.
 * [ ] Interfaz debe ocultar con (`#`) todos los dígitos con excepción de los últimos cuatro.
+
+
+
+-------------------------------------------------------------------------------------------------
+
